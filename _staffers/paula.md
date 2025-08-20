@@ -3,7 +3,7 @@ name: Paula Marquez (she/her/hers)
 role: Infrastructure
 email: 
 website: 
-photo: https://ph142-ucb.github.io/fa24/img/paula.jpg
+photo: https://ph142-ucb.github.io/fa25/img/paula.jpg
 ---
 
 **Office Hours:** [Find a time](https://calendly.com/paulamarquez-berkeley/office-hours)!

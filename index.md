@@ -8,7 +8,7 @@ description: >-
 
 # Introduction to Probability and Statistics in Biology and Public Health
 {: .mb-2 }
-PH 142, Fall 2024
+PH 142, Fall 2025
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -28,7 +28,7 @@ We will not be updating this page with announcements. For the latest announcemen
 - **Location**: Internet/Online [Zoom Link](https://berkeley.zoom.us/s/95632072932)
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
 - **Course number**: 30519
-- **Email for non-content inquiries**: [ph142fa24@berkeley.edu](mailto:ph142fa24@berkeley.edu)
+- **Email for non-content inquiries**: [ph142fa25@berkeley.edu](mailto:ph142fa25@berkeley.edu)
 
 ## Goals
 

@@ -1,15 +1,15 @@
 ---
 title: Week 16
 days:
-  - date: 2024-12-09
+  - date: 2025-12-08
     events:
       "**No Lecture**{: .label .label-purple} **RRR Week**":
       
-  - date: 2024-12-11
+  - date: 2025-12-10
     events:
       "**No Lecture**{: .label .label-purple} **RRR Week**":
 
-  - date: 2024-12-13
+  - date: 2025-12-12
     events:   
        "**No Lecture**{: .label .label-purple} **RRR Week**":       
 ---

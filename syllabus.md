@@ -10,6 +10,6 @@ description: >-
 
 <hr>
 
-<a href="https://ph142-ucb.github.io/fa24/src/ph142-syllabus-fa24.pdf">Download as PDF</a>
+<a href="https://ph142-ucb.github.io/fa25/src/ph142-syllabus-fa25.pdf">Download as PDF</a>
 
-<iframe src="https://ph142-ucb.github.io/fa24/src/ph142-syllabus-fa24.pdf" width="100%" height="800"></iframe>
+<iframe src="https://ph142-ucb.github.io/fa25/src/ph142-syllabus-fa25.pdf" width="100%" height="800"></iframe>

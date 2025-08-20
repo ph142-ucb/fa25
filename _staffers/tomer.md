@@ -3,7 +3,7 @@ name: Tomer Altman (he/him/his)
 role: Instructor
 email: taltman@berkeley.edu
 website: 
-photo: https://ph142-ucb.github.io/fa24/img/tomer.jpg
+photo: https://ph142-ucb.github.io/fa25/img/tomer.jpg
 ---
 
 **Office Hours:** [Remotely](https://berkeley.zoom.us/j/94427776347?pwd=wxirht5upbcTRNEMhQKPEgRfinJ0Uk.1) on Tuesdays from 5-6pm (passcode:548025)

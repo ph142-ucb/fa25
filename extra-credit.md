@@ -63,4 +63,4 @@ statistical information, and to share your critical thinking with others.
 For this extra credit assignment, we are asking you to provide your own “Statistics is Everywhere” example
 and demonstrate this kind of critical thinking
 
-<iframe src="https://ph142-ucb.github.io/fa24/src/ec/ec-statistics-is-everywhere_fa24.pdf" width="100%" height="800"></iframe> 
+<iframe src="https://ph142-ucb.github.io/fa25/src/ec/ec-statistics-is-everywhere_fa25.pdf" width="100%" height="800"></iframe> 
