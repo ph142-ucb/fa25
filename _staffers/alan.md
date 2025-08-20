@@ -1,6 +1,6 @@
 ---
 name: Alan Hubbard (he/him/his)
-role: Instructor
+role: NA
 email: hubbard@berkeley.edu
 website: https://publichealth.berkeley.edu/people/alan-hubbard/
 photo: https://ph142-ucb.github.io/fa25/img/alan.jpeg
