@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 nav_links:
   Gradescope:
-    - 'https://www.gradescope.com/courses/833518'
+    - 'https://www.gradescope.com/courses/1083476'
   Ed:
-    - 'https://edstem.org/us/courses/63660'
+    - 'https://edstem.org/us/courses/81908/discussion'
   Datahub:
     - 'https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main'
   Grade Calculator:
@@ -69,3 +69,5 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+plugins:
+  - jekyll-livereload

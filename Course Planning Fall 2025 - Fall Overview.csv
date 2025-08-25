@@ -1,0 +1,111 @@
+,L#,Topic,"Lab (W, Th, Fri)",Readings,Problem Sets/ Other Info
+,,,,,
+Week 1,,,,,
+8/25/2025,--,No Lecture,"Lab01: Introduction
+to R and RStudio on
+Datahub",--,
+8/27/2025,1,"Introduction to the course, the
+cloud, and PPDAC",,--,"Lab01 Released
+HW01 Released"
+8/29/2025,2,Working with data in R and RStudio (dplyr package),,--,Lab01 Due
+Week 2,,,,,
+9/1/2025,--,No Lecture: Holiday,Lab02: Visualization of global Cesarean delivery rates,--,"Lab02 Released
+HW02 Released"
+9/3/2025,3,"Visualizing data in R and RStudio
+(ggplot2 package) ",,--,
+9/5/2025,4,"Visualizing distributions for one variable, numerically summarizing spread and central tendency",,Ch. 1 & 2,"Lab02 Due 
+Quiz01 Due"
+Week 3,,,,,
+9/8/2025,5,"Exploring relationships between
+two variables ","Lab03: Relationship
+between global cesarean rates and GDP",Ch. 3,"Lab03 Released
+HW03 Released"
+9/10/2025,6,Introduction to Regression ,,Ch. 4,
+9/12/2025,7,"Two-way tables (Relationships
+between two categorical
+variables)",,Ch. 5,"Lab03 Due 
+Quiz02 Due"
+Week 4,,,,,
+9/15/2025,8,"Samples and observational
+studies","Lab04: Problem set
+on probability
+calculations ",Ch. 6,"Lab04 Released
+HW04 Released"
+9/17/2025,9,Live exercise: Sampling births from US territories,,--,
+9/19/2025,10,Designing Experiments,,Ch. 7,"Lab04 Due 
+Quiz03 Due"
+Week 5,,,,,
+9/22/2025,11,Introduction to probability,"Midterm I Review
+Session ",Ch. 9,MT I Review Problems Released (optional)
+9/24/2025,12,General rules of probability,,Ch. 10,
+9/26/2025,13,General rules of probability continued,,Ch. 10,Data Project Part I Due
+Week 6,,,,,
+9/29/2025,14,The Normal distribution part I,"Lab05: Sensitivity,
+specificity, and the
+Normal distribution",Ch. 11,"Lab05 Released
+HW05 Released"
+10/1/2025,15,The Normal distribution part II,,Ch. 11,
+10/3/2025,--,Midterm 1,,--,"Lab05 Due
+Quiz04 Due"
+Week 7,,,,,
+10/6/2025,16,The Binomial distribution,"Lab06: Problem set
+on Normal, binomial
+and Poisson
+distributions",Ch. 12,"Lab06 Released
+HW06 Released"
+10/8/2025,17,The Poisson distribution,,Ch. 12,
+10/10/2025,18,Sampling distributions for a mean and proportion and The Central Limit Theorem,,Ch. 13,"Lab06 Due
+Quiz05 Due"
+Week 8,,,,,
+10/13/2025,19,Confidence intervals for a mean with known standard deviation,"Lab07: Classroom
+simulation on the
+Central Limit
+Theorem and
+confidence intervals",Ch. 14,"Lab07 Released
+"
+10/15/2025,20,Hypothesis tests for a mean with known standard deviation,,Ch. 15,
+10/17/2025,21,"Power, type I and type II error, sample size (part I)",,Ch. 15,"Lab07 Due
+Quiz06 Due"
+Week 9,,,,,
+10/20/2025,22,Inference for a population mean with unknown standard deviation,"Midterm II Review
+Session",Ch. 17,MT II Review Problems Released (optional)
+10/22/2025,23,Catchup if behind,,Ch. 17,
+10/24/2025,24,Comparing two means,,Ch. 18,Data Project Part II Due
+Week 10,,,,,
+10/27/2025,25,Matched comparisons,"Lab08: Paired and
+two sample t-tests",Ch. 17,"Lab08 Released
+HW07 Released"
+10/29/2025,26,Inference for a population proportion,,Ch. 19,
+10/31/2025,--,Midterm 2,,--,"Lab08 Due
+Quiz07 Due"
+Week 11,,,,,
+11/3/2025,27,Comparing two proportions,"Lab09: Inference for
+Proportions",Ch. 20,"Lab09 Released
+HW08 Released"
+11/5/2025,28,Bootstrapping confidence intervals,,--,
+11/7/2025,29,The Chi-square testfor goodness of fit,,Ch. 21,"Lab09 Due
+Quiz08 Due"
+Week 12,,,,,
+11/10/2025,30,The Chi-square test for twoway tables,"Lab 10: Problem set
+on the Chi-square
+test",Ch. 22,"Lab10 Release 
+HW09 Release"
+11/12/2025,31,Permutation tests,,--,
+11/14/2025,32,Inference for regression I,,--,Lab10 Due
+Week 13,,,,,
+11/17/2025,33,Inference for regression II,Lab 11: Regression Models and Checking Model Assumptions,Ch. 23,"Lab11 Release (optional)
+HW10 Release"
+11/19/2025,34,Comparison of many means (ANOVA),,Ch. 24,
+11/21/2025,35,ANOVA II/Tukey's HSD,,Ch. 24,"Lab11 Due (optional)
+Quiz09 Due"
+Week 14,,,,,
+11/24/2025,36,Non-parametric testing alternatives,Holiday; No Lab,--,
+11/26/2025,37,No Lecture: Holiday,,--,
+11/28/2025,38,No Lecture: Holiday,,--,
+Week 15,,,,,
+12/1/2025,39,Regression modeling with a categorical exposure,Final Exam Review Session,--,Final Review Problems Released (optional)
+12/3/2025,40,Final Exam Review,,--,
+12/5/2025,41,Final Exam Review,,--,Data Project Part III Due
+Week 16,,RRR Week,,,
+Week 17,,Finals Week,,,
+12/17/2025,,Final Exam (11:30am-2:30pm),,,

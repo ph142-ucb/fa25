@@ -7,7 +7,7 @@ description: >-
 
 # Extra Credit
 {: .no_toc }
-
+<!--
 Throughout the course we provide examples of statistical information in the scientific and popular press. You may choose to provide an analysis and discussion of a recently published scientific article which is also covered in the popular press, or a critique and explanation of a study that you found personally compelling. **You may earn up to 2% of your course grade back through extra credit.** 
 
 
@@ -50,7 +50,7 @@ solution guide corresponding to topics covered during that lecture.
 <iframe src="https://ph142-ucb.github.io/fa23/src/ec/ec-question-creation.pdf" width="100%" height="800"></iframe> 
 
 <hr> -->
-
+<!--
 ## Extra Credit - Statistics is Everywhere
 
 Throughout the term, we have (and will continue to) include a recurring “Statistics is Everywhere” segment,
@@ -64,3 +64,4 @@ For this extra credit assignment, we are asking you to provide your own “Stati
 and demonstrate this kind of critical thinking
 
 <iframe src="https://ph142-ucb.github.io/fa25/src/ec/ec-statistics-is-everywhere_fa25.pdf" width="100%" height="800"></iframe> 
+-->

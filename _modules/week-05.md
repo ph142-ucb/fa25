@@ -3,17 +3,19 @@ title: Week 5
 days:
   - date: 2025-09-22
     events:
-      "**Lecture 11**{: .label .label-lec} [Introduction to Probability](https://ph142-ucb.github.io/fa25/src/lec/Ch09_Intro-probability.html) [(Recording)](https://kaf.berkeley.edu/media/t/1_79y9q7vp/354120542) ": 
+      "**Lecture 11**{: .label .label-lec} [Introduction to probability](https://ph142-ucb.github.io/fa25/src/lec/Ch09_Intro-probability.html)": 
         "Ch. 9"
+      "**Lab**{: .label .label-lab} Midterm I Review Session":
+      "**MT I Review Problems**{: .label .label-purple} Released (optional)":
 
   - date: 2025-09-24
     events:
-      "**Lecture 12**{: .label .label-lec} [General Rules of Probability](https://ph142-ucb.github.io/fa25/src/lec/Lec-12_More-probability.pptx) [(Recording)](https://kaf.berkeley.edu/media/t/1_81jh0iss/354120542) ":
+      "**Lecture 12**{: .label .label-lec} [General rules of probability](https://ph142-ucb.github.io/fa25/src/lec/Lec-12_More-probability.pptx)":
         "Ch. 10"
-      "**Lab**{: .label .label-lab} Midterm 1 Review Session ":
       
   - date: 2025-09-26
     events:
-      "**Lecture 13**{: .label .label-lec} [General Rules of Probability cont.](https://ph142-ucb.github.io/fa25/src/lec/Lec13_moreProbSlides.pdf)[(annotated slides)](https://ph142-ucb.github.io/fa25/src/lec/Lec13_moreProbNotes.pdf) [(supplemental)](https://ph142-ucb.github.io/fa25/src/lec/Lec13_SupplementalMatProbRules.pdf) [(Recording)](https://kaf.berkeley.edu/media/t/1_ai4ef67k/354120542)":
-      "**Quiz 4**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
+      "**Lecture 13**{: .label .label-lec} [General rules of probability continued](https://ph142-ucb.github.io/fa25/src/lec/Lec13_moreProbSlides.pdf)":
+        "Ch. 10"
+      "**Data Project Part I**{: .label .label-purple} Due":
 ---

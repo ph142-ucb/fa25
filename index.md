@@ -19,16 +19,16 @@ PH 142, Fall 2025
 </div>
 
 {% if site.announcements %}
-We will not be updating this page with announcements. For the latest announcements, make sure to check our [Ed](https://edstem.org/us/courses/63660).
+We will not be updating this page with announcements. For the latest announcements, make sure to check our [Ed](https://edstem.org/us/courses/81908/discussion).
 {% endif %}
 
 ## Important Information
 
 - **Lectures**: Monday, Wednesday, & Friday, 8:00 to 9:00 AM PST
-- **Location**: Internet/Online [Zoom Link](https://berkeley.zoom.us/s/95632072932)
+- **Location**: Internet/Online [Zoom Link](https://berkeley.zoom.us/j/97966653815?pwd=2tD8YGNV6MngPjs0EI4aVPQYesj6oq.1)
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
-- **Course number**: 30519
-- **Email for non-content inquiries**: [ph142fa25@berkeley.edu](mailto:ph142fa25@berkeley.edu)
+- **Course number**: #31031
+- **Email for non-content inquiries**: [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)
 
 ## Goals
 

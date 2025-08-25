@@ -6,10 +6,9 @@ description: Resources for students
 ---
 # Resources
 
-- [Lab Section Materials](https://drive.google.com/drive/u/2/folders/1uAVWJuQRHzygMkhtEYxUIZAFDu69ysiu)
+- [Lab Section Materials](https://drive.google.com/drive/folders/1QO0ehw7tcQOjbXekZhq6oQQMZJL8b6wr?usp=drive_link)
 - [PH 142 Course Overview Interactive Presentation](https://prezi.com/p/xpqdo6z9nbhw/learning-from-data/)
 - [FAQs and Common Errors](https://ph142-ucb.github.io/fa25/src/resources/faq/)
-- [PH 142 R Cheat Sheet](https://docs.google.com/document/d/1mVhjngYDDcrlOvaBB5SfuKaU3O1btxZU45BOj0DXc48/edit#) 
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 - [Data Visualization Cheatsheet](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
 

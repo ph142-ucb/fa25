@@ -8,14 +8,14 @@ days:
 
   - date: 2025-10-29
     events:
-      "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa25/src/lec/Lec_25_Paired-t-test.html) [(Recording)](https://kaf.berkeley.edu/media/t/1_v2kigh1s/354120542)": 
+      "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa25/src/lec/Lec_25_Paired-t-test.html) [(Recording)]()": 
         "Ch. 17"
       "**Lab 8**{: .label .label-lab} [T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) (Due Nov 1st)":
       "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) ":
       
   - date: 2025-10-31
     events:
-      "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://ph142-ucb.github.io/fa25/src/lec/Lec26_Inference-population-proportion.html) [(Recording)](https://kaf.berkeley.edu/media/t/1_nyis4tf2/354120542)":
+      "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://ph142-ucb.github.io/fa25/src/lec/Lec26_Inference-population-proportion.html) [(Recording)]()":
         "Ch. 19"
       "**Participation**{: .label .label-parti} Data Project GSI Check-In":
       "**Quiz 7**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":

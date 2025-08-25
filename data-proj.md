@@ -32,9 +32,9 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 **Due dates:** 
 
-- **Part I is due on October 11th at 10:00 PM PST**
-- **Part II is due on November 8th at 11:59 PM PST**
-- **Part III is due on December 6th at 10:00 PM PST**
+- **Part I is due on September 26th at 10:00 PM PST**
+- **Part II is due on October 24th at 10:00 PM PST**
+- **Part III is due on December 5th at 10:00 PM PST**
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 
@@ -76,7 +76,7 @@ There are a few ways you can contact your GSI:
 
 1. Create a private post on Ed with your question(s)/images and tag your assigned GSI (Example: @Paula Marquez)
 2. Attend your assigned GSI's Office Hours! All OH's are listed on the [course calendar](https://ph142-ucb.github.io/fa25/calendar/)
-3. Email [ph142fa25@berkeley.edu](mailto:ph142fa25@berkeley.edu) with the subject line "[Data Project] GSI ________ - ..."
+3. Email [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu) with the subject line "[Data Project] GSI ________ - ..."
 
 GSI's will do their best to respond to all emails/posts within 24 hours.
 
