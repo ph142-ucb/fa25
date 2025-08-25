@@ -35,3 +35,19 @@ select:focus {
   outline: 2px solid #ffffff;
   outline-offset: 2px;
 }
+
+// Fix for empty code line number links in lecture HTML files
+.sourceCode a[href^="#cb"][tabindex="-1"] {
+  // Hide from screen readers and accessibility checkers
+  aria-hidden: true;
+  // Add screen reader text for accessibility
+}
+
+.sourceCode a[href^="#cb"][tabindex="-1"]::before {
+  content: "Line ";
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
