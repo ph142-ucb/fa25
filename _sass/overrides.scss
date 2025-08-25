@@ -10,3 +10,27 @@ iframe,
 summary {
   margin-bottom: 1em;
 }
+
+// Accessibility improvements - Focus indicators for keyboard navigation
+a:focus,
+button:focus,
+input:focus,
+textarea:focus,
+select:focus {
+  outline: 2px solid #4A90E2;
+  outline-offset: 2px;
+}
+
+// High contrast focus for labels
+.label-lab:focus,
+.label-quiz:focus,
+.label-lec:focus,
+.label-hw:focus,
+.label-proj:focus,
+.label-exam:focus,
+.label-review:focus,
+.label-synch:focus,
+.label-parti:focus {
+  outline: 2px solid #ffffff;
+  outline-offset: 2px;
+}

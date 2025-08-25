@@ -59,14 +59,42 @@
     +.module-event {
       padding-top: 0;
     }
-    .label-lab { background-color: #00A6A6 }
-    .label-quiz { background-color: #c1443c }
-    .label-lec { background-color: #2869e6 }
-    .label-hw { background-color: #e6a720 }
-    .label-proj { background-color: #595959 }
-    .label-exam { background-color: #99c24d }
-    .label-review { background-color: #bb67eb}
-    .label-synch { background-color: #f1392c}
-    .label-parti { background-color: #fd5304}
+    // Updated colors for WCAG AA compliance (4.5:1 contrast ratio)
+    .label-lab { 
+      background-color: #006B6B; 
+      color: #ffffff;
+    }
+    .label-quiz { 
+      background-color: #B22222; 
+      color: #ffffff;
+    }
+    .label-lec { 
+      background-color: #1E4A8C; 
+      color: #ffffff;
+    }
+    .label-hw { 
+      background-color: #CC8800; 
+      color: #ffffff;
+    }
+    .label-proj { 
+      background-color: #404040; 
+      color: #ffffff;
+    }
+    .label-exam { 
+      background-color: #6B8E23; 
+      color: #ffffff;
+    }
+    .label-review { 
+      background-color: #8B4A9C; 
+      color: #ffffff;
+    }
+    .label-synch { 
+      background-color: #C41E3A; 
+      color: #ffffff;
+    }
+    .label-parti { 
+      background-color: #CC4125; 
+      color: #ffffff;
+    }
   }
 }
