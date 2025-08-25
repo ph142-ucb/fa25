@@ -51,3 +51,38 @@ select:focus {
   height: 1px;
   overflow: hidden;
 }
+
+// Fix footer contrast issues for accessibility
+.site-footer {
+  color: #333333 !important; // Dark gray for WCAG AA compliance
+  
+  a {
+    color: #0366d6 !important; // Accessible blue matching our link colors
+    text-decoration: underline;
+    
+    &:hover {
+      color: #024ea4 !important; // Darker blue on hover
+      text-decoration: none;
+    }
+    
+    &:visited {
+      color: #6f42c1 !important; // Purple for visited links
+    }
+  }
+}
+
+// Additional selectors for footer elements that might need contrast fixes
+.nav-footer, 
+.site-nav-footer,
+.aux-nav,
+footer {
+  color: #333333 !important;
+  
+  a {
+    color: #0366d6 !important;
+    
+    &:hover {
+      color: #024ea4 !important;
+    }
+  }
+}
