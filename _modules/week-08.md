@@ -10,8 +10,10 @@ days:
     events:
       "**Lecture 20**{: .label .label-lec} [Hypothesis Tests for a Mean with Known Standard Deviation](https://ph142-ucb.github.io/fa25/src/lec/Lec20_Hypothesis-testing.html) [(Recording)]()": 
         "Ch. 15"
-      "**Lab 7**{: .label .label-lab} [Normal, Binomial, and Poisson Distribution](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) (Due Oct 18th)":
-      "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main)":
+      "**Lab 7**{: .label .label-lab} not released yet":
+      # "**Lab 7**{: .label .label-lab} [Normal, Binomial, and Poisson Distribution](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) (Due Oct 18th)":
+      "**Homework 7**{: .label .label-hw} not released yet":
+      # "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main)":
       
   - date: 2025-10-17
     events:

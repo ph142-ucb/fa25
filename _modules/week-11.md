@@ -9,8 +9,10 @@ days:
   - date: 2025-11-05
     events:
       "**Lecture 28**{: .label .label-lec} [Bootstrapping Confidence Intervals](https://ph142-ucb.github.io/fa25/src/lec/Lec28_bootstrapping.html) [(Recording)]()":
-      "**Lab 9**{: .label .label-lab} [Inference for Proportions](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) (Due Nov 8th)":
-      "**Homework 9**{: .label .label-hw} [(On Datahub)](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main)": 
+      "**Lab 9**{: .label .label-lab} not released yet":
+      # "**Lab 9**{: .label .label-lab} [Inference for Proportions](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) (Due Nov 8th)":
+      "**Homework 9**{: .label .label-hw} not released yet":
+      # "**Homework 9**{: .label .label-hw} [(On Datahub)](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main)": 
       
   - date: 2025-11-07
     events:

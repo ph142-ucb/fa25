@@ -5,8 +5,10 @@ days:
     events:
       "**Lecture 5**{: .label .label-lec} [Exploring relationships between two variables](https://ph142-ucb.github.io/fa25/src/lec/Lec5_Exploring-relationships.html)":
         "Ch. 3"
-      "**Lab 3**{: .label .label-lab} [Relationship between global cesarean rates and GDP](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) - Released":
-      "**Homework 3**{: .label .label-hw} [Released - on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main)":
+      "**Lab 3**{: .label .label-lab} not released yet":
+      # "**Lab 3**{: .label .label-lab} [Relationship between global cesarean rates and GDP](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) - Released":
+      "**Homework 3**{: .label .label-hw} not released yet":
+      # "**Homework 3**{: .label .label-hw} [Released - on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main)":
 
   - date: 2025-09-10
     events:

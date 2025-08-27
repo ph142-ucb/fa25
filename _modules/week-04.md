@@ -5,8 +5,10 @@ days:
     events:
       "**Lecture 8**{: .label .label-lec} [Samples and observational studies](https://ph142-ucb.github.io/fa25/src/lec/Lec-8-_ObservationalStudies.html)":
         "Ch. 6"
-      "**Lab 4**{: .label .label-lab} [Problem set on probability calculations](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) - Released":
-      "**Homework 4**{: .label .label-hw} [Released - On Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main)":
+      "**Lab 4**{: .label .label-lab} not released yet":
+      # "**Lab 4**{: .label .label-lab} [Problem set on probability calculations](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) - Released":
+      "**Homework 4**{: .label .label-hw} not released yet":
+      # "**Homework 4**{: .label .label-hw} [Released - On Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main)":
 
   - date: 2025-09-17
     events:
