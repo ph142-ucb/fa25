@@ -1,6 +1,6 @@
 ---
 name: Junzhe (he/him)
-role: Technical GSI
+role: Infrastructure
 email: 
 website: 
 photo: https://ph142-ucb.github.io/fa25/img/junzhe.jpg
