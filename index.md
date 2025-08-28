@@ -11,31 +11,20 @@ description: >-
 PH 142, Fall 2025
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-<div class="role">
-  {% for staffer in instructors %}
-  {{ staffer }}
-  {% endfor %}
-</div>
-
-{% if site.announcements %}
-We will not be updating this page with announcements. For the latest announcements, make sure to check our [Ed](https://edstem.org/us/courses/81908/discussion).
-{% endif %}
+**Instructor**: [Tomer Altman]({{ site.baseurl }}/staff)
 
 ## Important Information
 
+- **Questions & Discussion**: Please use [Ed](https://edstem.org/us/courses/81908/discussion) for all course-related questions
+- **Non-content inquiries**: [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)
 - **Lectures**: Monday, Wednesday, & Friday, 8:00 to 9:00 AM PST
 - **Location**: Internet/Online [Zoom Link](https://berkeley.zoom.us/j/97966653815?pwd=2tD8YGNV6MngPjs0EI4aVPQYesj6oq.1)
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
 - **Course number**: #31031
-- **Email for non-content inquiries**: [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)
 
-## Goals
-
-- Build strong foundations in statistics and introduce students to programming to prepare students for more advanced courses involving data analysis.
-- Foster a mindset of statistical thinking to give students the tools to understand experiments and research studies and evaluate their validity.
-- Empower students to address real-world problems with technical prowess.
-- Develop the skills to assess statistical information in scientific and lay publications, and to communicate statistical information to various audiences.
+{% if site.announcements %}
+We will not be updating this page with announcements. For the latest announcements, make sure to check our [Ed](https://edstem.org/us/courses/81908/discussion).
+{% endif %}
 
 ## Course Description
 
@@ -45,4 +34,11 @@ This course is an introduction to statistics and data science, primarily for MPH
 - **Part II:** We will be learning about classical problems in probability and the some commonly used probability distributions: the Normal, Binomial, and Poisson distributions. In Part II we will also make the link between theoretical distributions and sampled distributions and cover a key concept called the Central Limit Theorem. 
 - **Part III:** We introduce statistical inference, the process of estimating statistics from samples to make inference about populations. 
 
-Throughout the course, we will follow the **PPDAC model**, which stands for “Problem, Plan, Data, Analysis, and Conclusion”. 
+Throughout the course, we will follow the **PPDAC model**, which stands for "Problem, Plan, Data, Analysis, and Conclusion". 
+
+## Goals
+
+- Build strong foundations in statistics and introduce students to programming to prepare students for more advanced courses involving data analysis.
+- Foster a mindset of statistical thinking to give students the tools to understand experiments and research studies and evaluate their validity.
+- Empower students to address real-world problems with technical prowess.
+- Develop the skills to assess statistical information in scientific and lay publications, and to communicate statistical information to various audiences. 
