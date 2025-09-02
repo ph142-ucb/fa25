@@ -14,6 +14,7 @@ days:
   - date: 2025-08-29
     events:
       "**Lecture 2**{: .label .label-lec} [Working with data in R and RStudio (dplyr package)](https://ph142-ucb.github.io/fa25/src/lec/002_Working-with-data.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
+      "**Lecture 2 extra**{: .label .label-lec} [(Video)](https://berkeley.zoom.us/rec/share/12612XoVHe6Y7Wks3oAeFueyhtbXv7emLxSAxZiovlCKz8e2K42_BMDZBr_7j-ii.3iv0MDmONPBwsAzR?startTime=1756504113000) Passcode: U9%Y?v8j":
       "**Lab 1**{: .label .label-lab} Due":
       
 ---
