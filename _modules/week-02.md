@@ -16,7 +16,7 @@ days:
       "**Lecture 4**{: .label .label-lec} [Visualizing distributions for one variable, numerically summarizing spread and central tendency](https://ph142-ucb.github.io/fa25/src/lec/Lec-4A_Visualizing-distributions.pdf)":
         "Ch. 1 & 2"
       "**Lab 2**{: .label .label-lab} Due":
-      "**Quiz 1**{: .label .label-quiz} Due 11:59pm on [Gradescope](https://www.gradescope.com/courses/833518)":
+      "**Quiz 1**{: .label .label-quiz} Due 11:59pm on [Gradescope](https://www.gradescope.com/courses/1083476)":
       
 ---
 
