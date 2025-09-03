@@ -9,7 +9,7 @@ days:
       
   - date: 2025-09-03
     events:
-      "**Lecture 3**{: .label .label-lec} [Visualizing data in R and RStudio (ggplot2 package)](https://ph142-ucb.github.io/fa25/src/lec/003_Visualizing-data-in-R.pdf)":
+      "**Lecture 3**{: .label .label-lec} [Visualizing data in R and RStudio (ggplot2 package)](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-03_Visualizing-data)":
       
   - date: 2025-09-05
     events:
