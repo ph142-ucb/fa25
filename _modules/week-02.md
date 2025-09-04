@@ -9,7 +9,7 @@ days:
       
   - date: 2025-09-03
     events:
-      "**Lecture 3**{: .label .label-lec} [Visualizing data in R and RStudio (ggplot2 package)](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-03_Visualizing-data)":
+      "**Lecture 3**{: .label .label-lec} [Visualizing data in R and RStudio (ggplot2 package)](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-03_Visualizing-data)[ (Video) ](https://berkeley.zoom.us/rec/share/x7dI4-vdHRS9TYJWnbChH2JL4lE9WhwNLWg7-5nD4CmeaIpNUUOvZBwSmCP3Vh1b.TqQoqGq48lvcSA6y?startTime=1756912164000) Passcode: 8z$H0SE&": 
       
   - date: 2025-09-05
     events:
