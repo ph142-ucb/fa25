@@ -13,7 +13,7 @@ days:
       
   - date: 2025-09-05
     events:
-      "**Lecture 4**{: .label .label-lec} [Visualizing distributions for one variable, numerically summarizing spread and central tendency](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-04_Vis-distribution-one-variable)":
+      "**Lecture 4A**{: .label .label-lec} [Picturing distributions with graphs](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-04_Vis-distribution-one-variable)":
         "Ch. 1 & 2"
       "**Lab 2**{: .label .label-lab} Due":
       "**Quiz 1**{: .label .label-quiz} Due 11:59pm on [Gradescope](https://www.gradescope.com/courses/1083476)":
