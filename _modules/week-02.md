@@ -15,6 +15,7 @@ days:
     events:
       "**Lecture 4A**{: .label .label-lec} [Picturing distributions with graphs](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-04_Vis-distribution-one-variable)":
         "Ch. 1 & 2"
+      "[ (Video) ](https://berkeley.zoom.us/rec/share/s6X9p5_bXxSFQJNK_pQLQobTNaWUIab2ZizDKiN7mrJ2OtviCEumzLnVZwowxZpS.ocDV-V3hEtpUjyBc) Passcode: 6gT$N*G#":  
       "**Lab 2**{: .label .label-lab} Due":
       "**Quiz 1**{: .label .label-quiz} Due 11:59pm on [Gradescope](https://www.gradescope.com/courses/1083476)":
       
