@@ -3,7 +3,7 @@ title: Week 3
 days:
   - date: 2025-09-08
     events:
-      "**Lecture 4B**{: .label .label-lec} [Visualizing distributions for one variable, numerically summarizing spread and central tendency](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-04_Vis-distribution-one-variable)":
+      "**Lecture 4B**{: .label .label-lec} [Visualizing distributions for one variable, numerically summarizing spread and central tendency](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-04_Vis-distribution-one-variable) [ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
         "Ch. 1 & 2"
       "**Lab 3**{: .label .label-lab} not released yet":
       # "**Lab 3**{: .label .label-lab} [Relationship between global cesarean rates and GDP](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) - Released":
