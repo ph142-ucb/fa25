@@ -13,7 +13,7 @@ days:
         "Ch. 3"
   - date: 2025-09-10
     events:
-      "**Lecture 6**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/fa25/src/lec/Lec06_Intro-to-regression.html)": 
+      "**Lecture 6**{: .label .label-lec} [Introduction to Regression](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-06_Intro-regression)": 
         "Ch. 4"
       
   - date: 2025-09-12
