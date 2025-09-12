@@ -10,23 +10,23 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 ### PDF Links 
 
-<!-- [Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/fa25/src/dp/part1_instructions.pdf)  
+[Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/fa25/src/dp/part1_instructions.pdf)  
 
-- Note: Make sure to check in with your assigned GSI before the due date!
+<!-- - Note: Make sure to check in with your assigned GSI before the due date!
 - Please refer to the [Dataset Criteria](https://docs.google.com/document/d/1SHysgRhif8rXpsV-U62Urz91Tf5ozoyVCXgyg3hq484/edit?usp=sharing) to ensure you are using a valid dataset!
-- You can find the rubric for Part 1 of the Data Project [here](https://docs.google.com/document/d/16dnp8BAYZoogcpz3Dd5cyTjoIO8LJLsKhkP6UQl_v6Y/edit?usp=sharing).
+- You can find the rubric for Part 1 of the Data Project [here](https://docs.google.com/document/d/16dnp8BAYZoogcpz3Dd5cyTjoIO8LJLsKhkP6UQl_v6Y/edit?usp=sharing). -->
 
-[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/fa25/src/dp/part2_instructions.pdf) 
+<!-- [Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/fa25/src/dp/part2_instructions.pdf) 
 
 - Note: Make sure to check in with your assigned GSI before the due date!
 - You can find the rubric for Part 2 of the Data Project [here](https://docs.google.com/document/d/1e06NcQemsUQrs_tLFVaX0O-07ypL-BePP97Ueup5z10/edit?usp=sharing).
 
 [Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/fa25/src/dp/part3-instructions.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
-- You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/15YQn9pnG8ZcGqQkQ0hmiCousDKyeqLB0rUNO4r5grlE/edit?usp=sharing).
+- You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/15YQn9pnG8ZcGqQkQ0hmiCousDKyeqLB0rUNO4r5grlE/edit?usp=sharing). -->
 
 ## Data Skills Demonstration Project Part III
-<iframe src="https://ph142-ucb.github.io/fa25/src/dp/part3-instructions.pdf" width="100%" height="800"></iframe>  -->
+<iframe src="https://ph142-ucb.github.io/fa25/src/dp/part3-instructions.pdf" width="100%" height="800"></iframe> 
 
 <hr>
 
