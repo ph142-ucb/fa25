@@ -18,7 +18,7 @@ days:
       
   - date: 2025-09-12
     events:
-      "**Lecture 7**{: .label .label-lec} [Two-way tables (Relationships between two categorical variables)](https://ph142-ucb.github.io/fa25/src/lec/Lec7_Two-way-tables.html)":
+      "**Lecture 7**{: .label .label-lec} [Two-way tables (Relationships between two categorical variables)](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-07_Two-way-tables)":
         "Ch. 5"
       "**Lab 3**{: .label .label-lab} Due":
       "**Quiz 2**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
