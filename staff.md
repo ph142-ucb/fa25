@@ -37,7 +37,11 @@ For lab section and office hour schedules for each GSI, see the [calendar]({{ si
 
 ## Tutors
 
-<!-- The Dream Office offers peer-to-peer group tutoring sessions for residential PH142 graduate students. They do not offer 1:1 tutoring nor partake in grading and decision-making regarding course assignments. For more information about tutoring hours and offerings, check out their [group tutoring schedule](https://docs.google.com/spreadsheets/d/106iEifxibNnGHuG_rZ7BmTKlmJzUqDwu-JCbec6WDV8/edit?usp=sharing) or contact [biotutor_sphdiversity@berkeley.edu](mailto:biotutor_sphdiversity@berkeley.edu). -->
+Through the Dream Office at the School of Public Health, we offer weekly group tutoring sessions where we review concepts from the current week's lecture material, work through example questions and live coding exercises for R concepts, and provide a space for students to ask questions and practice.
+
+Our tutoring sessions are held weekly via Zoom and follow this schedule:
+- **Alex Kwong**: Thursdays 6-8 PM
+- **Dirk Tolson III**: Wednesdays 6-8 PM
 
 <div class="role">
   {% assign tutor = site.staffers | where: 'role', 'Tutor' %}
