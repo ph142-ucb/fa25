@@ -3,7 +3,7 @@ title: Week 4
 days:
   - date: 2025-09-15
     events:
-      "**Lecture 8**{: .label .label-lec} [Causality, samples and observational studies](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-08_Samples-obs-studies)":
+      "**Lecture 8**{: .label .label-lec} [Causality, samples and observational studies](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-08_Samples-obs-studies)[ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
         "Ch. 6"
       "**Lab 4**{: .label .label-lab} not released yet":
       # "**Lab 4**{: .label .label-lab} [Problem set on probability calculations](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) - Released":
