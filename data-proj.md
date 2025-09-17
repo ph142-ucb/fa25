@@ -26,7 +26,7 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 - You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/15YQn9pnG8ZcGqQkQ0hmiCousDKyeqLB0rUNO4r5grlE/edit?usp=sharing). -->
 
 ## Data Skills Demonstration Project Part I
-<iframe src="https://ph142-ucb.github.io/fa25/src/dp/part1-instructions.pdf" width="100%" height="800"></iframe> 
+<iframe src="https://ph142-ucb.github.io/fa25/src/dp/part1_instructions.pdf" width="100%" height="800"></iframe> 
 
 <hr>
 
