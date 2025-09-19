@@ -12,7 +12,7 @@ days:
 
   - date: 2025-09-17
     events:
-      "**Lecture 9**{: .label .label-lec} [Sampling births from US territories](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-09_Sampling-live-exercise)":
+      "**Lecture 9**{: .label .label-lec} [Sampling births from US territories](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-09_Sampling-live-exercise)[ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
 
   - date: 2025-09-19
     events:
