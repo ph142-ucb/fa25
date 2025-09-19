@@ -16,7 +16,7 @@ days:
 
   - date: 2025-09-19
     events:
-      "**Lecture 10**{: .label .label-lec} [Designing Experiments](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-10_Design-experiments)":
+      "**Lecture 10**{: .label .label-lec} [Designing Experiments](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-10_Design-experiments)[ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
         "Ch. 7"
       "**Lab 4**{: .label .label-lab} Due":
       "**Quiz 3**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
