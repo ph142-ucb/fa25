@@ -15,7 +15,7 @@ days:
       
   - date: 2025-09-26
     events:
-      "**Lecture 13**{: .label .label-lec} [General rules of probability continued](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-13_General-prob-II)":
+      "**Lecture 13**{: .label .label-lec} [General rules of probability continued](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-13_General-prob-II) [ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
         "Ch. 10"
       "**Data Project Part I**{: .label .label-purple} Due":
 ---
