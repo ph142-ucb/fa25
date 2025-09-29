@@ -3,7 +3,7 @@ title: Week 6
 days:
   - date: 2025-09-29
     events:
-      "**Lecture 14**{: .label .label-lec} [The Normal distribution part I](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-14_Normal-dist) [ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
+      "**Lecture 14**{: .label .label-lec} [The Normal distribution part I](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-14_Normal-dist) [ (Videos Part 1 & 2) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
         "Ch. 11"
       "**Lab 5**{: .label .label-lab} not released yet":
       # "**Lab 5**{: .label .label-lab} [Sensitivity, specificity, and the Normal distribution](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) - Released":
