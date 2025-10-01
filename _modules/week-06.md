@@ -12,7 +12,7 @@ days:
 
   - date: 2025-10-01
     events:
-      "**Lecture 15**{: .label .label-lec} [The Normal distribution part II](https://github.com/ph142-ucb/ph142-fa25/)":
+      "**Lecture 15**{: .label .label-lec} [The Normal distribution part II](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-15_Normal-dist-II)":
         "Ch. 11"
       
   - date: 2025-10-03
