@@ -15,7 +15,7 @@ We can also document comments about ambiguous questions, or any other commentary
 
 ### Fall 2020
 
-####Q12.5: The solution should say ln(5000) = 8.52. 
+####Q12.5: Solution typo: ln(5000) = 8.52. 
 
 ### Spring 2021
 
