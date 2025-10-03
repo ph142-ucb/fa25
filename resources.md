@@ -46,7 +46,7 @@ description: Resources for students
 
 | Practice Exams | Year                          | Solutions                      | Errata |
 |----------------|-------------------------------|--------------------------------|--------|
-| Midterm 1      | [Fa18 Midterm 1](https://ph142-ucb.github.io/fa25/src/resources/mt1/fa18-mt1.pdf) ([Q2 Handout](https://ph142-ucb.github.io/fa25/src/resources/mt1/fa18-mt1-supp.pdf)) | [Fa18 Midterm 1 Solutions](https://ph142-ucb.github.io/fa25/src/resources/mt1/fa18-mt1-sol.pdf) | [Fa18 Midterm 1 Errata](errata/#fall-2018) |
+| Midterm 1      | [Fa18 Midterm 1](https://ph142-ucb.github.io/fa25/src/resources/mt1/fa18-mt1.pdf) ([Q2 Handout](https://ph142-ucb.github.io/fa25/src/resources/mt1/fa18-mt1-supp.pdf)) | [Fa18 Midterm 1 Solutions](https://ph142-ucb.github.io/fa25/src/resources/mt1/fa18-mt1-sol.pdf) | [Fa18 Midterm 1 Errata]({{ site.baseurl }}/errata/#fall-2018) |
 |                | [Fa20 Midterm 1](https://ph142-ucb.github.io/fa25/src/resources/mt1/fa20-mt1.pdf) | [Fa20 Midterm 1 Solutions](https://ph142-ucb.github.io/fa25/src/resources/mt1/fa20-mt1-sol.pdf) | [Fa20 Midterm 1 Errata](errata/#fall-2020) |
 |                | [Sp21 Midterm 1](https://ph142-ucb.github.io/fa25/src/resources/mt1/sp21-mt1.pdf) | [Sp21 Midterm 1 Solutions](https://ph142-ucb.github.io/fa25/src/resources/mt1/sp21-mt1-sol.pdf) | [Sp21 Midterm 1 Errata](errata/#spring-2021) |
 |                | [Fa21 Midterm 1](https://ph142-ucb.github.io/fa25/src/resources/mt1/fa21-mt1.pdf) | [Fa21 Midterm 1 Solutions](https://ph142-ucb.github.io/fa25/src/resources/mt1/fa21-mt1-sol.pdf) | [Fa21 Midterm 1 Errata](errata/#fall-2021) |
