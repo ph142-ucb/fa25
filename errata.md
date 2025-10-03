@@ -13,9 +13,12 @@ We can also document comments about ambiguous questions, or any other commentary
 
 ### Fall 2018
 
+#### Q3.e: Solution typo: plot is "dodge" 
+
 ### Fall 2020
 
 #### Q12.5: Solution typo: ln(5000) = 8.52. 
+#### Q14.4: Solution typo: answer is "No Endo"
 
 ### Spring 2021
 
@@ -24,6 +27,8 @@ We can also document comments about ambiguous questions, or any other commentary
 ### Fall 2021
 
 ### Fall 2022
+
+#### Q6: Solution typo: D = 85
 
 
 ## Midterm 2
