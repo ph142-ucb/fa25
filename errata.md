@@ -12,17 +12,17 @@ We will also add comments about ambiguous questions, or any other commentary tha
 
 ## Midterm 1
 
-### Fall 2018
+### MT1 Fall 2018
 
 ### Q2
 
-Parts (a) and (b) are not possible to answer, because there was an additional sheet passed out during the exam, which described the desired form of the final data frame. For some reason, this additional information was not present in the midterm PDF, nor the midterm solution PDF. Without knowing the desired end-format, the student cannot reasonable understand which of the `dplyr` functions to apply to achieve the transformation.
+You can answer parts (a) and (b) by taking a look at the "Q2 Handout"", which was passed out with the Midterm 1 itself (both of these are linked to from the [Resources page]({{ site.baseurl }}/resources/)).
 
 #### Q3.e: 
 
 Solution typo: plot is "dodge" 
 
-### Fall 2020
+### MT1 Fall 2020
 
 #### Q12.5: 
 
@@ -32,15 +32,15 @@ Solution typo: ln(5000) = 8.52.
 
 Solution typo: answer is "No Endo"
 
-### Spring 2021
+### MT1 Spring 2021
 
 #### Q4.1: 
 
 Correct answer: B, D
 
-### Fall 2021
+### MT1 Fall 2021
 
-### Fall 2022
+### MT1 Fall 2022
 
 #### Q6: 
 
