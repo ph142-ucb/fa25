@@ -10,7 +10,7 @@ days:
     events:
       "**Lecture 17**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/fa25/src/lec/Lec17_Poisson-distrn.html) ":
       #"**Lab 6**{: .label .label-lab} not released yet":
-      "**Lab 6**{: .label .label-lab} [Independence, Screening, and Normal Distribution](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) (Due Oct 11th)":
+      "**Lab 6**{: .label .label-lab} [Independence, Screening, and Normal Distribution](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main)":
       #"**Homework 6**{: .label .label-hw} not released yet":
       "**Homework 6**{: .label .label-hw} [On Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main)": 
       
