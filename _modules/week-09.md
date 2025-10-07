@@ -15,5 +15,6 @@ days:
     events:
       "**Lecture 24**{: .label .label-lec} [Comparing Two Means](https://ph142-ucb.github.io/fa25/src/lec/Lec_24_Comparing-two-means.html) [(Recording)]()":
         "Ch. 18"
+      "**Data Project Part II**{: .label .label-purple} Due":
 
 ---

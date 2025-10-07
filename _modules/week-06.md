@@ -16,7 +16,7 @@ days:
   - date: 2025-10-03
     events:
       "**Exam**{: .label .label-exam} **Midterm 1**":
-      "**Lab 5**{: .label .label-lab} Due":
+      "**Lab 5**{: .label .label-lab} Extended due to technical issue":
       "**Quiz 4**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
       
 ---
