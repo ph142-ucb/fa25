@@ -3,7 +3,7 @@ title: Week 7
 days:
   - date: 2025-10-06
     events:
-      "**Lecture 16**{: .label .label-lec} [The Binomial Distribution](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-16_Binomial-dist) ":
+      "**Lecture 16**{: .label .label-lec} [The Binomial Distribution](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-16_Binomial-dist) [ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
         "Ch. 12"
       "**Participation**{: .label .label-parti} [Mid Semester Feedback Survey](https://forms.gle/Nw4hVszX9ffdsnQd6) ":
   - date: 2025-10-08
@@ -18,6 +18,5 @@ days:
     events:
       "**Lecture 18**{: .label .label-lec} [Sampling Distributions for a Mean and Proportion; Central Limit Theorem](https://ph142-ucb.github.io/fa25/src/lec/Lec18-_Sampling-distns.html) ":
         "Ch. 13"
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 10:00 PM PST)":
       "**Quiz 5**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
 ---
