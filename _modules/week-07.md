@@ -5,7 +5,7 @@ days:
     events:
       "**Lecture 16**{: .label .label-lec} [The Binomial Distribution](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-16_Binomial-dist) [ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
         "Ch. 12"
-      "**Participation**{: .label .label-parti} [Mid Semester Feedback Survey](https://forms.gle/Nw4hVszX9ffdsnQd6) ":
+      "**Participation**{: .label .label-parti} [Mid Semester Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSc4FWHNwaHcBWAno3ohsmHFEPK1fbiQj_nx0NJ3R9uOb4e-vA/viewform) ":
   - date: 2025-10-08
     events:
       "**Lecture 17**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/fa25/src/lec/Lec17_Poisson-distrn.html) ":
