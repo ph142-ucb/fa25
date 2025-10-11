@@ -16,7 +16,7 @@ days:
       
   - date: 2025-10-10
     events:
-      "**Lecture 18**{: .label .label-lec} [Sampling Distributions for a Mean and Proportion; Central Limit Theorem](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-18_Sampling-and-CLT) ":
+      "**Lecture 18**{: .label .label-lec} [Sampling Distributions for a Mean and Proportion; Central Limit Theorem](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-18_Sampling-and-CLT)[ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481) ":
         "Ch. 13"
       "**Lab 6**{: .label .label-lab} Due":  
       "**Quiz 5**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
