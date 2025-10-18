@@ -49,4 +49,18 @@ Solution typo: D = 85
 
 ## Midterm 2
 
+### MT2 Fall 2018
+
+### MT2 Fall 2020
+
+### MT2 Spring 2021
+
+### MT2 Fall 2021
+
+### MT2 Fall 2022
+
+#### Q12.c: 
+
+Solution: The null value $\mu_0 = 4$ is _not_ contained in the 95% confidence interval (6.5, 7.0), so we have evidence to reject the null $H_0$. The true mean counseling time is likely greater than 4 minutes. 
+
 ## Final Exam
