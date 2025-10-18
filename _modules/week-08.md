@@ -17,7 +17,7 @@ days:
       
   - date: 2025-10-17
     events:
-      "**Lecture 21**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-21_Inf-in-practice)":
+      "**Lecture 21**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-21_Inf-in-practice)[ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
       "**Lab 7**{: .label .label-lab} Due":
       "**Quiz 6**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
       
