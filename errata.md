@@ -61,6 +61,6 @@ Solution typo: D = 85
 
 #### Q12.c: 
 
-Solution: The null value $\mu_0 = 4$ is _not_ contained in the 95% confidence interval (6.5, 7.0), so we have evidence to reject the null $H_0$. The true mean counseling time is likely greater than 4 minutes. 
+Solution: The null value mu_0 = 4 is _not_ contained in the 95% confidence interval (6.5, 7.0), so we have evidence to reject the null hypothesis. The true mean counseling time is likely greater than 4 minutes. 
 
 ## Final Exam
