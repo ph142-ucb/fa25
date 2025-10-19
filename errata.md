@@ -57,6 +57,15 @@ Solution typo: D = 85
 
 ### MT2 Fall 2021
 
+#### Q1.b:
+
+Complete solution: 
+No; if these two events were independent, then we would expect the conditional probability of a randomly chosen person getting Alzheimer's to be the same across all cognitive risk assessment score ranges (the value should just be equal to the probability of choosing a person who develops Alzheimer's, or P(A)). However, as shown below, this is not the case:
+ P(A) = 0.42
+ P(A | 0-1) = 0
+ P(A | 1-2) = 3/17 = 0.176
+Note: Students can show independence in multiple ways -- they can compare the probability of developing Alzheimer's across multiple risk score ranges or by comparing one with the probability of getting Alzheimer's.
+
 ### MT2 Fall 2022
 
 #### Q12.c: 
