@@ -3,7 +3,7 @@ title: Week 9
 days:
   - date: 2025-10-20
     events:
-      "**Lecture 22**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size Cont.](https://ph142-ucb.github.io/fa25/src/lec/Lec21_Inference-in-practice.html) [(Recording)]()":
+      "**Lecture 22**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size Cont.](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-21_Inf-in-practice) [(Recording)]()":
         "Ch. 17"
 
   - date: 2025-10-22
