@@ -3,7 +3,7 @@ title: Week 9
 days:
   - date: 2025-10-20
     events:
-      "**Lecture 22**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size Cont.](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-21_Inf-in-practice) ":
+      "**Lecture 22**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size Cont.](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-21_Inf-in-practice) [ (Video) ](https://berkeley.zoom.us/rec/share/bMrnugqMLEtl0lEgSM7N1sHmFFkxzrQGQd9Qq-IT4a3sB_XRgw_jK95geZSo73qa.ulVd7Ph0sKH8_PKd) Passcode: PUt6%!PY":
         "Ch. 17"
 
   - date: 2025-10-22
