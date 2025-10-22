@@ -8,7 +8,7 @@ days:
 
   - date: 2025-10-22
     events:
-      "**Lecture 23**{: .label .label-lec} [Inference for a Population Mean with Unknown Standard Deviation](https://ph142-ucb.github.io/fa25/src/lec/Lec-23_Inference-population-mean.html) ": 
+      "**Lecture 23**{: .label .label-lec} [Inference for a Population Mean with Unknown Standard Deviation](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-23_Inference-mean-unknown-SD) ": 
       "**Lab**{: .label .label-lab} Midterm 2 Review Session":
 
   - date: 2025-10-24
