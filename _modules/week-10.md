@@ -9,7 +9,10 @@ days:
 
   - date: 2025-10-29
     events:
+      "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://ph142-ucb.github.io/fa25/src/lec/Lec26_Inference-population-proportion.html) ":
+        "Ch. 19"
       "**Lab 8**{: .label .label-lab} not released yet":
+
       # "**Lab 8**{: .label .label-lab} [T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) (Due Nov 1st)":
       "**Homework 8**{: .label .label-hw} not released yet":
       # "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) ":
@@ -17,8 +20,7 @@ days:
   - date: 2025-10-31
     events:
       "**Exam**{: .label .label-exam} **Midterm 2: In-Person**":
-      "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://ph142-ucb.github.io/fa25/src/lec/Lec26_Inference-population-proportion.html) ":
-        "Ch. 19"
+   
       "**Participation**{: .label .label-parti} Data Project GSI Check-In":
       "**Quiz 7**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
       
