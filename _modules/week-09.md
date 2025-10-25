@@ -13,7 +13,7 @@ days:
 
   - date: 2025-10-24
     events:
-      "**Lecture 24**{: .label .label-lec} [Comparing Two Means](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-24_Inference-two-means)":
+      "**Lecture 24**{: .label .label-lec} [Comparing Two Means](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-24_Inference-two-means)[ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
         "Ch. 18"
       "**Data Project Part II**{: .label .label-purple} Due":
 

@@ -3,9 +3,9 @@ title: Week 10
 days:
   - date: 2025-10-27
     events:
-      "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa25/src/lec/Lec_25_Paired-t-test.html) [(Recording)]()": 
+      "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa25/src/lec/Lec_25_Paired-t-test.html) ": 
         "Ch. 17"
-      "**No Lecture**{: .label .label-purple}":    
+      #"**No Lecture**{: .label .label-purple}":    
 
   - date: 2025-10-29
     events:
@@ -17,7 +17,7 @@ days:
   - date: 2025-10-31
     events:
       "**Exam**{: .label .label-exam} **Midterm 2: In-Person**":
-      "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://ph142-ucb.github.io/fa25/src/lec/Lec26_Inference-population-proportion.html) [(Recording)]()":
+      "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://ph142-ucb.github.io/fa25/src/lec/Lec26_Inference-population-proportion.html) ":
         "Ch. 19"
       "**Participation**{: .label .label-parti} Data Project GSI Check-In":
       "**Quiz 7**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
