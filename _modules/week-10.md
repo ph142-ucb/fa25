@@ -3,7 +3,7 @@ title: Week 10
 days:
   - date: 2025-10-27
     events:
-      "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa25/src/lec/Lec_25_Paired-t-test.html) ": 
+      "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-25_Inference-paired) ": 
         "Ch. 17"
       #"**No Lecture**{: .label .label-purple}":    
 
