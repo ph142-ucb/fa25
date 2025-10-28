@@ -3,7 +3,7 @@ title: Week 10
 days:
   - date: 2025-10-27
     events:
-      "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa25/src/lec/Lec_25_Paired-t-test.html) ": 
+      "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa25/src/lec/Lec_25_Paired-t-test.html) [ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)": 
         "Ch. 17"
       #"**No Lecture**{: .label .label-purple}":    
 
@@ -11,11 +11,11 @@ days:
     events:
       "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://ph142-ucb.github.io/fa25/src/lec/Lec26_Inference-population-proportion.html) ":
         "Ch. 19"
-      "**Lab 8**{: .label .label-lab} not released yet":
+      #"**Lab 8**{: .label .label-lab} not released yet":
 
-      # "**Lab 8**{: .label .label-lab} [T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) (Due Nov 1st)":
-      "**Homework 8**{: .label .label-hw} not released yet":
-      # "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) ":
+      "**Lab 8**{: .label .label-lab} [T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) (Due Nov 3rd)":
+      #"**Homework 8**{: .label .label-hw} not released yet":
+      "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) ":
       
   - date: 2025-10-31
     events:
