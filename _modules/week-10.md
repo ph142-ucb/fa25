@@ -3,7 +3,7 @@ title: Week 10
 days:
   - date: 2025-10-27
     events:
-      "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa25/src/lec/Lec_25_Paired-t-test.html) [ (Video) ](https://berkeley.zoom.us/rec/share/bMrnugqMLEtl0lEgSM7N1sHmFFkxzrQGQd9Qq-IT4a3sB_XRgw_jK95geZSo73qa.ulVd7Ph0sKH8_PKd) Passcode: PUt6%!PY": 
+      "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa25/src/lec/Lec_25_Paired-t-test.html)[ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481) ": 
         "Ch. 17"
       #"**No Lecture**{: .label .label-purple}":    
 
