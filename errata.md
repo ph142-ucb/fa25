@@ -51,6 +51,10 @@ Solution typo: D = 85
 
 ### MT2 Fall 2018
 
+#### Q5.4:
+
+Solution typo: P(X = 5000)
+
 ### MT2 Fall 2020
 
 ### MT2 Spring 2021

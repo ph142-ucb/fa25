@@ -3,7 +3,7 @@ title: Week 10
 days:
   - date: 2025-10-27
     events:
-      "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa25/src/lec/Lec_25_Paired-t-test.html) [ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)": 
+      "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa25/src/lec/Lec_25_Paired-t-test.html) ": 
         "Ch. 17"
       #"**No Lecture**{: .label .label-purple}":    
 
