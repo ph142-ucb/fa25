@@ -55,6 +55,10 @@ Solution typo: D = 85
 
 Solution typo: P(X = 5000)
 
+#### Q6.1:
+
+Solution typo: 0.47/√1000 = 0.0149
+
 ### MT2 Fall 2020
 
 ### MT2 Spring 2021
