@@ -38,6 +38,10 @@ Solution typo: answer is "No Endo"
 
 Correct answer: B, D
 
+#### Q5i: 
+
+Solution: Age is classified as a continuous variable because the range of possible values is continuous, even though the table does not display decimal values. 
+
 ### MT1 Fall 2021
 
 ### MT1 Fall 2022
