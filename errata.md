@@ -63,6 +63,10 @@ Solution typo: 0.47/√1000 = 0.0149
 
 ### MT2 Spring 2021
 
+#### Q4:
+
+Solution typo: n = 3
+
 ### MT2 Fall 2021
 
 #### Q1.b:
