@@ -9,7 +9,7 @@ days:
 
   - date: 2025-10-29
     events:
-      "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-26_Inference-one-proportion) ":
+      "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-26_Inference-one-proportion) [ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
         "Ch. 19"
       #"**Lab 8**{: .label .label-lab} not released yet":
 
