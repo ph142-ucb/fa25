@@ -51,6 +51,10 @@ Solution typo: D = 85
 
 ### MT2 Fall 2018
 
+#### Q5:
+
+Solution typo: Binomial equation missing from the prompt. P(X = k) = (n k)(0.67)^k(0.33)^(n-k)
+
 #### Q5.4:
 
 Solution typo: P(X = 5000)
