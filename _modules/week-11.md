@@ -3,7 +3,7 @@ title: Week 11
 days:
   - date: 2025-11-03
     events:
-      "**Lecture 27**{: .label .label-lec} [Comparing Two Proportions](https://ph142-ucb.github.io/fa25/src/lec/Lec27_Comparing-two-proportions.html) [(Recording)]()":
+      "**Lecture 27**{: .label .label-lec} [Comparing Two Proportions](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-27_Inference-two-proportions) [(Recording)]()":
         "Ch. 20"
         
   - date: 2025-11-05
