@@ -8,7 +8,7 @@ days:
         
   - date: 2025-11-05
     events:
-      "**Lecture 28**{: .label .label-lec} [Bootstrapping Confidence Intervals]https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-28_Bootstrap ":
+      "**Lecture 28**{: .label .label-lec} [Bootstrapping Confidence Intervals](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-28_Bootstrap) ":
       #"**Lab 9**{: .label .label-lab} not released yet":
       "**Lab 9**{: .label .label-lab} [Inference for Proportions](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) (Due Nov 7th)":
       #"**Homework 9**{: .label .label-hw} not released yet":

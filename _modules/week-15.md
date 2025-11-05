@@ -3,7 +3,7 @@ title: Week 15
 days:
   - date: 2025-12-01
     events:
-      "**Lecture 36**{: .label .label-lec} [Non-parametric Testing Alternatives](https://ph142-ucb.github.io/fa25/src/lec/Lec36_NonParamStat.html) [(Recording)]()":
+      "**Lecture 36 part 2**{: .label .label-lec} [Non-parametric Testing Alternatives](https://ph142-ucb.github.io/fa25/src/lec/Lec36_NonParamStat.html) [(Recording)]()":
   - date: 2025-12-03
     events:
       "**Lecture 37**{: .label .label-lec} [Regression Modeling with a Categorical Exposure](https://ph142-ucb.github.io/fa25/src/lec/Lec37_Regression-with-categorica.html) [(Recording)]()":
