@@ -16,7 +16,7 @@ days:
       
   - date: 2025-11-07
     events:
-      "**Lecture 29**{: .label .label-lec} [The Chi-square Test for Goodness of Fit](https://ph142-ucb.github.io/fa25/src/lec/Lec29_Inference-categorical-var-greater-than-2-levels.html) ":
+      "**Lecture 29**{: .label .label-lec} [The Chi-square Test for Goodness of Fit](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-29_Chisq-1) ":
         "Ch. 21"  
       "**Quiz 8**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
 
