@@ -12,6 +12,6 @@ days:
     events:
      "**Lecture 38**{: .label .label-lec} [Final Exam Review](https://ph142-ucb.github.io/fa25/src/lec/Lec38_Part-III_review.pdf)":
      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part III (Due 10:00 PM PST)":
-     "**Extra Credit**{: .label .label-green} Due: Statistics is Everywhere":
-     "**Extra Credit**{: .label .label-green} Submit Course Evaluation screenshots (Due Sunday Dec. 15th) ":
+     #"**Extra Credit**{: .label .label-green} Due: Statistics is Everywhere":
+     #"**Extra Credit**{: .label .label-green} Submit Course Evaluation screenshots (Due Sunday Dec. 15th) ":
 ---
