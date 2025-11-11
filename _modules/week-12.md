@@ -9,10 +9,10 @@ days:
   - date: 2025-11-12
     events:
       "**Lecture 31**{: .label .label-lec} [Permutation Tests](https://ph142-ucb.github.io/fa25/src/lec/Lec31_Permutation-Tests.html)":
-      "**Lab 10**{: .label .label-lab} not released yet":
-      # "**Lab 10**{: .label .label-lab} [Chi-Squared Testing](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) (Due Nov 15th)":
-      "**Homework 10**{: .label .label-hw} not released yet":
-      # "**Homework 10**{: .label .label-hw} [(On Datahub)](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main)": 
+      #"**Lab 10**{: .label .label-lab} not released yet":
+      "**Lab 10**{: .label .label-lab} [Chi-Squared Testing](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) (Due Nov 15th)":
+      #"**Homework 10**{: .label .label-hw} not released yet":
+      "**Homework 10**{: .label .label-hw} [(On Datahub)](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main)": 
       
   - date: 2025-11-14
     events:
