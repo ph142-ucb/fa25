@@ -18,5 +18,5 @@ days:
     events:
       "**Lecture 32**{: .label .label-lec} [Inference for Regression I](https://ph142-ucb.github.io/fa25/src/lec/Lec32_Inference-for-regression.html)":
         "Ch. 23"
-      "**Quiz 9**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
+      
 ---
