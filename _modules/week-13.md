@@ -16,6 +16,6 @@ days:
   - date: 2025-11-21
     events:
       "**Lecture 35**{: .label .label-lec} [Anova II/Tukey's HSD](https://ph142-ucb.github.io/fa25/src/lec/Lec34_ANOVA.html)":
-      "**Quiz 10**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
+      "**Quiz 9**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
       
 ---
