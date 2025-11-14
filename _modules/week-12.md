@@ -16,7 +16,7 @@ days:
       
   - date: 2025-11-14
     events:
-      "**Lecture 32**{: .label .label-lec} [Inference for Regression I](https://ph142-ucb.github.io/fa25/src/lec/Lec32_Inference-for-regression.html)":
+      "**Lecture 32**{: .label .label-lec} [Inference for Regression I](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-32_Inf-reg-1)":
         "Ch. 23"
       "**Quiz 9**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
 ---
