@@ -3,7 +3,7 @@ title: Week 13
 days:
   - date: 2025-11-17
     events:
-      "**Lecture 33**{: .label .label-lec} [Inference for Regression II](https://ph142-ucb.github.io/fa25/src/lec/Lec33_Inference-for-regression.html)":
+      "**Lecture 33**{: .label .label-lec} [Inference for Regression II](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-33_Inf-reg-2)":
   - date: 2025-11-19
     events:
       "**Lecture 34**{: .label .label-lec} [Comparison of Many Means (ANOVA)](https://ph142-ucb.github.io/fa25/src/lec/Lec34_ANOVA.html)":
