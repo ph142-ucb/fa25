@@ -16,7 +16,7 @@ days:
       
   - date: 2025-11-14
     events:
-      "**Lecture 32**{: .label .label-lec} [Inference for Regression I](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-32_Inf-reg-1)":
+      "**Lecture 32**{: .label .label-lec} [Inference for Regression I](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-32_Inf-reg-1)[ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
         "Ch. 23"
       
 ---
