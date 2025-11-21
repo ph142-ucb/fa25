@@ -11,14 +11,14 @@ description: >-
 Throughout the course we provide examples of statistical information in the scientific and popular press. You may choose to provide an analysis and discussion of a recently published scientific article which is also covered in the popular press, or a critique and explanation of a study that you found personally compelling. **You may earn up to 2% of your course grade back through extra credit.** 
 
 
-<details open markdown="block">
+<!-- <details open markdown="block">
   <summary>
     Extra Credit Assignments
   </summary>
   {: .text-delta }
 1. TOC
 {:toc}
-</details>
+</details> -->
 
 <hr>
 
@@ -31,7 +31,8 @@ relevant to decisions you or people you care about.
 <iframe src="https://ph142-ucb.github.io/sp24/src/ec/ec-compelling-study_sp24.pdf" width="100%" height="800"></iframe>
 
 <hr> -->
- ## Extra Credit - Statistical Humor
+
+## Extra Credit - Statistical Humor
 
 Laughter can help us to remember - and we wanted to give you a chance to express your creativity along
 with your statistical knowledge as either a meme or an original cartoon.
