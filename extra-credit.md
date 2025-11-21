@@ -8,7 +8,7 @@ description: >-
 # Extra Credit
 {: .no_toc }
 
-Throughout the course we provide examples of statistical information in the scientific and popular press. You may choose to provide an analysis and discussion of a recently published scientific article which is also covered in the popular press, or a critique and explanation of a study that you found personally compelling. **You may earn up to 2% of your course grade back through extra credit.** 
+The extra credit assignments are now available on Datahub. You may complete _one of the two_ extra credit assignments to earn a **1% increase in your overall course grade**. Please read the instructions carefully and follow the submission guidelines. The extra credit assignment will be due December 5th at 11:59pm.
 
 
 <!-- <details open markdown="block">
