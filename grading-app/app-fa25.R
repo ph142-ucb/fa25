@@ -69,13 +69,24 @@ ui <- fluidPage(
   	column(2,
 			numericInput("q8", "Quiz 8", value = NA, min = 0, max = 100, step = 1)),
   	column(2,
-			numericInput("q9", "Quiz 9", value = NA, min = 0, max = 100, step = 1)),
-    column(2,
-      numericInput("q10", "Quiz 10", value = NA, min = 0, max = 100, step = 1))),
+			numericInput("q9", "Quiz 9", value = NA, min = 0, max = 100, step = 1))),
   fluidRow(
     column(4,
            div(textOutput("quiz_avg_out"), style = "color: blue;"))),
 
+  hr(),
+  fluidRow(
+    column(12,
+           HTML("<b>Participation (10%)</b><br/> Mid-Semester Evaluation (5%), End-of-Course Evaluation (5%), and Lab Section Attendance (90% of participation). 14 total labs; top 12 count.<br/><br>")),
+    column(3,
+           checkboxInput("mid_eval", "Mid-Semester Evaluation Completed", value = FALSE)),
+    column(3,
+           checkboxInput("end_eval", "End-of-Course Evaluation Completed", value = FALSE)),
+    column(3,
+           numericInput("labs_attended", "Lab Sections Attended (out of 14)", value = 0, min = 0, max = 14, step = 1)),
+    column(3,
+           div(textOutput("participation_out"), style = "color: blue;"))
+  ),
   hr(),
   fluidRow(
     column(12,
@@ -98,7 +109,7 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Extra Credit</b><br/>Up to 4% total: 1% for each extra credit assignment and up to 2% from lecture attendance.<br/><br>")),
+           HTML("<b>Extra Credit</b><br/>Up to 3% total: 1% for an extra credit assignment (options are mutually exclusive) and up to 2% from lecture attendance.<br/><br>")),
     column(3,
            checkboxInput("ec_assign1", "Extra Credit Assignment 1 Completed", value = FALSE)),
     column(3,
@@ -160,38 +171,50 @@ server <- function(input, output) {
 
   ##### QUIZ
   quiz_avg <- reactive({
-  	quiz_grades <- c(input$q1, 
-  	                 input$q2, 
-  	                 input$q3, 
-  	                 input$q4, 
-  	                 input$q5,
-                     input$q6, 
-  	                 input$q7, 
-  	                 input$q8, 
-  	                 input$q9,
-  	                 input$q10)
-	
-  	if (length(quiz_grades[!is.na(quiz_grades)]) == 1) {
-  	  return(sum(quiz_grades, na.rm = T))
-  	} else {
-  	  return(avg_drop_x_lowest(quiz_grades, drops = 1))
-  	}
+    quiz_grades <- c(input$q1,
+                     input$q2,
+                     input$q3,
+                     input$q4,
+                     input$q5,
+                     input$q6,
+                     input$q7,
+                     input$q8,
+                     input$q9)
+
+    if (length(quiz_grades[!is.na(quiz_grades)]) == 1) {
+      return(sum(quiz_grades, na.rm = T))
+    } else {
+      return(avg_drop_x_lowest(quiz_grades, drops = 1))
+    }
   })
 
   output$quiz_avg_out <- renderText({
     paste0("Quiz Mean: ", quiz_avg(), "%")
   })
 
+  ##### PARTICIPATION
+  participation_percent <- reactive({
+    mid_eval_score <- ifelse(isTRUE(input$mid_eval), 5, 0) # 5% of participation category
+    end_eval_score <- ifelse(isTRUE(input$end_eval), 5, 0) # 5% of participation category
+    labs_attended <- ifelse(is.null(input$labs_attended) || is.na(input$labs_attended), 0, input$labs_attended)
+    lab_score <- (pmin(labs_attended, 12) / 12) * 90 # 90% of participation category from top 12 labs
+    return(round(mid_eval_score + end_eval_score + lab_score, 2))
+  })
+
+  output$participation_out <- renderText({
+    paste0("Participation Score: ", participation_percent(), "% (out of 100% for participation category)")
+  })
+
   ##### EXTRA CREDIT
   extra_credit_points <- reactive({
-    ec_assignments <- sum(c(input$ec_assign1, input$ec_assign2))
+    ec_assignments <- min(1, sum(c(input$ec_assign1, input$ec_assign2))) # mutually exclusive, max 1%
     attendance_bonus <- ifelse(is.null(input$attendance_pct) || is.na(input$attendance_pct), 0, input$attendance_pct)
     total_bonus <- (ec_assignments * 1) + attendance_bonus
-    return(round(min(total_bonus, 4), 2))
+    return(round(min(total_bonus, 3), 2))
   })
 
   output$extra_credit_out <- renderText({
-    paste0("Extra Credit Applied: ", extra_credit_points(), "% (max 4%)")
+    paste0("Extra Credit Applied: ", extra_credit_points(), "% (max 3%)")
   })
 
   ##### Original Grading Policy Weighted
@@ -207,9 +230,7 @@ server <- function(input, output) {
 
     project_weight <- 0.20 # 20% data project
 
-    participation_percent <- 100
-    
-    weight_avg <- (participation_weight * participation_percent) + 
+    weight_avg <- (participation_weight * participation_percent()) + 
       (lab_avg() * lab_weight) + 
       (quiz_avg() * quiz_weight) +
       (input$m1 * mt1_weight) + 
@@ -224,20 +245,22 @@ server <- function(input, output) {
   #### Grade Estimate
   
     output$weighted_avg <- renderText({
-      paste0("Grade Estimate: ", original(), "%")
+      capped <- min(original(), 100)
+      paste0("Grade Estimate: ", capped, "%")
     })
   
     output$letter_grade <- renderText({
-      paste0("Letter grade: ", case_when(original() >= 98.5 ~ "A+",
-                                         original() < 98.5 & original() >= 94.0 ~ "A",
-                                         original() < 94.0 & original() >= 89.0 ~ "A-",
-                                         original() < 89.0 & original() >= 85.0 ~ "B+",
-                                         original() < 85.0 & original() >= 81.0 ~ "B",
-                                         original() < 81.0 & original() >= 75.5 ~ "B-",
-                                         original() < 75.5 & original() >= 70.5 ~ "C+",
-                                         original() < 70.5 & original() >= 60.5 ~ "C",
-                                         original() < 60.5 & original() >= 51 ~ "C",
-                                         original() < 51.0 ~ "D")
+      capped <- min(original(), 100)
+      paste0("Letter grade: ", case_when(capped >= 98.5 ~ "A+",
+                                         capped < 98.5 & capped >= 94.0 ~ "A",
+                                         capped < 94.0 & capped >= 89.0 ~ "A-",
+                                         capped < 89.0 & capped >= 85.0 ~ "B+",
+                                         capped < 85.0 & capped >= 81.0 ~ "B",
+                                         capped < 81.0 & capped >= 75.5 ~ "B-",
+                                         capped < 75.5 & capped >= 70.5 ~ "C+",
+                                         capped < 70.5 & capped >= 60.5 ~ "C",
+                                         capped < 60.5 & capped >= 51 ~ "C",
+                                         capped < 51.0 ~ "D")
       )
   })
 
