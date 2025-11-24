@@ -109,13 +109,13 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Extra Credit</b><br/>Up to 3% total: 1% for an extra credit assignment (options are mutually exclusive) and up to 2% from lecture attendance.<br/><br>")),
+           HTML("<b>Extra Credit</b><br/>Up to 4% total: 1% for an extra credit assignment (options are mutually exclusive) and up to 2% from lecture attendance.<br/><br>")),
     column(3,
            checkboxInput("ec_assign1", "Extra Credit Assignment 1 Completed", value = FALSE)),
     column(3,
            checkboxInput("ec_assign2", "Extra Credit Assignment 2 Completed", value = FALSE)),
     column(3,
-           sliderInput("attendance_pct", "Lecture Attendance Bonus (%)", value = 0, min = 0, max = 2, step = 0.1)),
+           sliderInput("attendance_pct", "Lecture Attendance Bonus (%)", value = 0, min = 0, max = 3, step = 0.1)),
     column(3,
            div(textOutput("extra_credit_out"), style = "color: blue;"))
   ),
@@ -210,11 +210,11 @@ server <- function(input, output) {
     ec_assignments <- min(1, sum(c(input$ec_assign1, input$ec_assign2))) # mutually exclusive, max 1%
     attendance_bonus <- ifelse(is.null(input$attendance_pct) || is.na(input$attendance_pct), 0, input$attendance_pct)
     total_bonus <- (ec_assignments * 1) + attendance_bonus
-    return(round(min(total_bonus, 3), 2))
+    return(round(min(total_bonus, 4), 2))
   })
 
   output$extra_credit_out <- renderText({
-    paste0("Extra Credit Applied: ", extra_credit_points(), "% (max 3%)")
+    paste0("Extra Credit Applied: ", extra_credit_points(), "% (max 4%)")
   })
 
   ##### Original Grading Policy Weighted
