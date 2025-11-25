@@ -109,7 +109,7 @@ ui <- fluidPage(
   hr(),
   fluidRow(
     column(12,
-           HTML("<b>Extra Credit</b><br/>Up to 4% total: 1% for an extra credit assignment (options are mutually exclusive) and up to 2% from lecture attendance.<br/><br>")),
+           HTML("<b>Extra Credit</b><br/>Up to 4% total: 1% for an extra credit assignment (options are mutually exclusive) and up to 3% from lecture attendance.<br/><br>")),
     column(3,
            checkboxInput("ec_assign1", "Extra Credit Assignment 1 Completed", value = FALSE)),
     column(3,
@@ -251,16 +251,19 @@ server <- function(input, output) {
   
     output$letter_grade <- renderText({
       capped <- min(original(), 100)
-      paste0("Letter grade: ", case_when(capped >= 98.5 ~ "A+",
-                                         capped < 98.5 & capped >= 94.0 ~ "A",
-                                         capped < 94.0 & capped >= 89.0 ~ "A-",
-                                         capped < 89.0 & capped >= 85.0 ~ "B+",
-                                         capped < 85.0 & capped >= 81.0 ~ "B",
-                                         capped < 81.0 & capped >= 75.5 ~ "B-",
-                                         capped < 75.5 & capped >= 70.5 ~ "C+",
-                                         capped < 70.5 & capped >= 60.5 ~ "C",
-                                         capped < 60.5 & capped >= 51 ~ "C",
-                                         capped < 51.0 ~ "D")
+      paste0("Letter grade: ", case_when(capped >= 99 ~ "A+",
+                                         capped >= 93 ~ "A",
+                                         capped >= 90 ~ "A-",
+                                         capped >= 87 ~ "B+",
+                                         capped >= 83 ~ "B",
+                                         capped >= 80 ~ "B-",
+                                         capped >= 77 ~ "C+",
+                                         capped >= 73 ~ "C",
+                                         capped >= 70 ~ "C-",
+                                         capped >= 67 ~ "D+",
+                                         capped >= 63 ~ "D",
+                                         capped >= 60 ~ "D-",
+                                         TRUE ~ "F")
       )
   })
 
