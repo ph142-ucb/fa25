@@ -125,6 +125,8 @@ ui <- fluidPage(
            div(textOutput("weighted_avg"), style = "color: blue;")),
     column(12,
            div(textOutput("letter_grade"), style = "color: blue;")),
+    column(12,
+           div(textOutput("grade_note"), style = "color: blue;")),
   ))
 
 
@@ -251,21 +253,27 @@ server <- function(input, output) {
   
     output$letter_grade <- renderText({
       capped <- min(original(), 100)
-      paste0("Letter grade: ", case_when(capped >= 99 ~ "A+",
-                                         capped >= 93 ~ "A",
-                                         capped >= 90 ~ "A-",
-                                         capped >= 87 ~ "B+",
-                                         capped >= 83 ~ "B",
-                                         capped >= 80 ~ "B-",
-                                         capped >= 77 ~ "C+",
-                                         capped >= 73 ~ "C",
-                                         capped >= 70 ~ "C-",
-                                         capped >= 67 ~ "D+",
-                                         capped >= 63 ~ "D",
-                                         capped >= 60 ~ "D-",
-                                         TRUE ~ "F")
+      grade_letter <- case_when(
+        capped >= 99 ~ "A+",
+        capped >= 93 ~ "A",
+        capped >= 90 ~ "A-",
+        capped >= 87 ~ "B+",
+        capped >= 83 ~ "B",
+        capped >= 80 ~ "B-",
+        capped >= 77 ~ "C+",
+        capped >= 73 ~ "C",
+        capped >= 70 ~ "C-",
+        capped >= 67 ~ "D+",
+        capped >= 63 ~ "D",
+        capped >= 60 ~ "D-",
+        TRUE ~ "F"
       )
-  })
+      paste0("Letter grade: ", grade_letter)
+    })
+
+    output$grade_note <- renderText({
+      paste0("Please note, the grade bins are subject to change by Prof. Altman")
+    })
 
 
 }
