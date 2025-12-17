@@ -132,4 +132,4 @@ The answer says that the Wilcoxon Rank Sum test is the most appropriate choice. 
 
 #### Q12
 
-These are proportions, so the answer key should be talking about $\hat{p}$, not $\mu$. 
+These are proportions, so the answer key should be talking about $\hat{p}$, not $\mu$. Also, for Q12.4, the formula for Wald large-sample confidence intervals should be used, as we're dealing with the sampling distribution, not the population distribution.
