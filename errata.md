@@ -14,7 +14,7 @@ We will also add comments about ambiguous questions, or any other commentary tha
 
 ### MT1 Fall 2018
 
-### Q2
+#### Q2
 
 You can answer parts (a) and (b) by taking a look at the "Q2 Handout"", which was passed out with the Midterm 1 itself (both of these are linked to from the [Resources page]({{ site.baseurl }}/resources/)).
 
@@ -100,7 +100,7 @@ Solution: The null value mu_0 = 4 is _not_ contained in the 95% confidence inter
 
 Solution: The solution provides the answer for "Chi-sq test for goodness of fit" but the question prompt asks for "Chi-sq test for independence". The correct answer for Chi-square test for independence should be: "Two categorical variables (or K≥2 groups of a categorical explanatory variable and a categorical response variable)"
 
-#### 7.c: 
+#### Q7.c: 
 
 Solution: The solution should be 3.766/2. 
 
@@ -112,6 +112,13 @@ Solution: The question asks for: a) mA for people with blonde hair, b) mA for pe
 
 Solution: The 95% CI is (0.81, 1.15), which does NOT contain 0. Therefore, we REJECT the null hypothesis and conclude that there is a significant relationship between BMI and diastolic blood pressure.
 
+### Final Spring 2021 Takehome
 
+#### Q5.6
 
+For finding the degrees of freedom for the `Residuals`, termed `BBB` in the problem, there is a typo in the solution. It should be 495, not 195. This found by taking the value of $N_{tot} - k$. Also acceptable would be 494.06, which, from the lecture on ANOVA, we learned that $df = \frac{\text{sumseq}}{\text{meansq}}$, and $494.06 = \frac{1042.47}{2.11}$. The difference between these two answers is likely due to numerical round-off errors.
+
+#### Q8.2
+
+The answer key says the answer is C, Kruskal-Wallis, but the answer should be B, Wilcoxon Sign Rank, because the study design is using paired data to control confounders between men and women.
 
