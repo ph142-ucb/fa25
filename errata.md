@@ -128,3 +128,8 @@ The answer key says the answer is C, Kruskal-Wallis, but the answer should be B,
 
 The answer says that the Wilcoxon Rank Sum test is the most appropriate choice. This may be so, but the stated reason is not correct. The $t$-test works just fine for small data-sets, as long as the assumptions of the $t$-test hold. So the answer is necessary, but by itself, not sufficient. So one's reasoning might be that since the problem doesn't mention anything about symmetry, central peak, lack of outliers, etc. we cannot assume that those conditions for the two-sample $t$-test hold. Thus, you can fall back to using the Wilcoxon Rank Sum test, which makes no such assumptions.
 
+### Final Fall 2023
+
+#### Q12
+
+These are proportions, so the answer key should be talking about $\hat{p}$, not $\mu$. 
