@@ -116,7 +116,7 @@ Solution: The 95% CI is (0.81, 1.15), which does NOT contain 0. Therefore, we RE
 
 #### Q5.6
 
-For finding the degrees of freedom for the `Residuals`, termed `BBB` in the problem, there is a typo in the solution. It should be 495, not 195. This found by taking the value of $N_{tot} - k$. Also acceptable would be 494.06, which, from the lecture on ANOVA, we learned that $df = \frac{\text{sumseq}}{\text{meansq}}$, and $494.06 = \frac{1042.47}{2.11}$. The difference between these two answers is likely due to numerical round-off errors.
+For finding the degrees of freedom for the `Residuals`, termed `BBB` in the problem, there is a typo in the solution. It should be 495, not 195. This found by taking the value of $`N_{tot} - k`$. Also acceptable would be 494.06, which, from the lecture on ANOVA, we learned that $df = \frac{\text{sumseq}}{\text{meansq}}$, and $494.06 = \frac{1042.47}{2.11}$. The difference between these two answers is likely due to numerical round-off errors.
 
 #### Q8.2
 
